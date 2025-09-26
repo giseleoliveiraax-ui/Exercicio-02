@@ -1,0 +1,4 @@
+alimento1 = input("Digite o primeiro alimento que você levaria para a ilha: ")
+alimento2 = input("Digite o segundo alimento que você levaria para a ilha: ")
+alimento3 = input("Digite o terceiro alimento que você levaria para a ilha: ")
+print(F"\nVocê escolheu levar: {alimento1}, {alimento2} e {alimento3} para a ilha.")

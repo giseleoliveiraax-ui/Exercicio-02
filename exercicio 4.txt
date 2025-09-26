@@ -1,0 +1,3 @@
+cidade = input("Digite uma cidade: ")
+uf = input("Digite o estado (UF) dessa cidade: ")
+print(F"A cidade de {cidade} fica localizada no estado de {uf}.")

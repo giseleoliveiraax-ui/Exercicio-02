@@ -1,0 +1,4 @@
+n1 = int(input("Digite o primeiro numero inteiro: "))
+n2 = int(input("Digite o segundo numero inteiro: "))
+n3 = int(input("Digite o terceiro numero inteiro: "))
+print(F"Os numeros digitados em sequencia foram:{n1} {n2} {n3}")

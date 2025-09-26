@@ -1,0 +1,5 @@
+nome_completo = input("Digite seu nome completo: ")
+idade = input("Digite sua idade: ")
+endereco = input("Digite seu endereço: ")
+emprego = input("Digite sua profissão: ")
+print(F"\nNome: {nome_completo}\n Idade: {idade}\n Endereço: {endereco}\n Emprego: {emprego}\n")

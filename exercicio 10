@@ -1,0 +1,6 @@
+nome = input("Digite o seu nome: ")
+idade = input("Digite a sua idade: ")
+curso = input("Informe o seu curso: ")
+evento = input("Informe o nome do evento: ")
+
+print(F"Confirmado! {nome}, {idade}, estudante de {curso}, está inscrito no evento {evento}.")

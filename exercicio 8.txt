@@ -1,0 +1,6 @@
+nome = input("Digite o seu nome: ")
+produto = input("Escolha um produto: ")
+quantidade = int(input("Informe a quantidade: "))
+preco_unitario = float(input("Digite o preço do produto: "))
+total = (quantidade * preco_unitario)
+print(F"\n Nome: {nome}\n Produto: {produto}\n Quantidade: {quantidade}\n Preço unitário: {preco_unitario}\n Total: {total}")
